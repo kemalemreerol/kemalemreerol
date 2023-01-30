@@ -1,5 +1,7 @@
 ## Hi there 👋 I'm Kemal
 
+---
+
 ### Jr Software Developer 
 
 Skills: C# / .NetCore / MSSQL / JavaScripts / React 
