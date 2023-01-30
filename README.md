@@ -1,5 +1,6 @@
 <h1 >Hi 👋, I'm KEMAL</h1>
 
+---
 ### Jr Software Developer 
 
 Skills: C# / .NetCore / MSSQL / JavaScripts / React 
