@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Kemal
+<h1 align="center">Hi 👋, I'm KEMAL</h1>
 
 ---
 
@@ -6,9 +6,9 @@
 
 Skills: C# / .NetCore / MSSQL / JavaScripts / React 
 
+* 🔭 I’m currently working on **.NetCore**
 * 🌍  I'm based in Turkey, İstanbul.
-* 🔭 I’m currently working on .NetCore
-* 🌱 I’m currently learning c#, .NetCore, JavaScripts, React technologies.
+* 🌱 I’m currently learning C#, .NetCore, JavaScripts, React, Node js, MongoDB technologies.
 * ✉️  You can contact me at [kemre_99@hotmail.com](mailto:kemre_99@hotmail.com)
 
 ---
