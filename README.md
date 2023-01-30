@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm KEMAL</h1>
+<h1 >Hi 👋, I'm KEMAL</h1>
 
 ### Jr Software Developer 
 
