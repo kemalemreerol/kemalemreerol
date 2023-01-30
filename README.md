@@ -8,7 +8,7 @@ Skills: C# / .NetCore / MSSQL / JavaScripts / React
 
 * 🌍  I'm based in Turkey, İstanbul.
 * 🔭 I’m currently working on .NetCore
-* 🌱 I’m currently learning c#, .NetCore
+* 🌱 I’m currently learning c#, .NetCore, JavaScripts, React technologies.
 * ✉️  You can contact me at [kemre_99@hotmail.com](mailto:kemre_99@hotmail.com)
 
 ---
